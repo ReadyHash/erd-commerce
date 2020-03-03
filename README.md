@@ -12,6 +12,9 @@ Here's what you need to do:
 
 Users should be able to login, view the catalog, add items to cart and checkout.
 
+> You will likely need to change your tables as you expand and add more features.
+> You will need more than 4 tables, excluding users, as a start
+
 ### Deliverables
 
 Allow user to add items to cart
